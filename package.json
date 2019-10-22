@@ -1,0 +1,11 @@
+{
+  "name": "koa-explore",
+  "version": "1.0.0",
+  "description": "koa 开发相关",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shenxinle",
+  "license": "MIT"
+}
